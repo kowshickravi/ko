@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS dbo."ScalarParamKeys"
     CONSTRAINT "PK_ScalarParamKeys_CU01" PRIMARY KEY  
     (
 			
-            "AuditSequenceNo"
+        "AuditSequenceNo"
     )		
 );
 
